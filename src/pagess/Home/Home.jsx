@@ -3,12 +3,7 @@ import React from 'react';
 function Home() {
 	return (
 		<div className='profile-container'>
-			<img
-				src='./public/stdempimg.jpg'
-				// src='./public/stdempimg.jpg' // แทนที่ URL นี้ด้วยรูปภาพจริงของคุณ
-				alt='Profile'
-				className='profile-image'
-			/>
+			<img src='../public/stdempimg.jpg' alt='Image' />
 			<div className='profile-info'>
 				<h2>ชื่อ:นาย วีรวุฒิ ชีอยู่ รหัส 66037290</h2>
 				<p>
