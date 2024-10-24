@@ -3,7 +3,7 @@ import React from 'react';
 function Home() {
 	return (
 		<div className='profile-container'>
-			<img src='public/stdempimg.jpg' alt='Student Image' />
+			<img src='./stdempimg.jpg' alt='Student Image' />
 
 			<div className='profile-info'>
 				<h2>ชื่อ:นาย วีรวุฒิ ชีอยู่ รหัส 66037290</h2>
