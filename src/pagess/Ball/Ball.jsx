@@ -103,37 +103,37 @@ const Ball = () => {
 				</button>
 				<button
 					className='btn btn-success'
-					onClick={() => setBallType('public/bas.png')}
+					onClick={() => setBallType('./bas.png')}
 				>
 					Basketball
 				</button>
 				<button
 					className='btn btn-success'
-					onClick={() => setBallType('public/volleyball.jpg')}
+					onClick={() => setBallType('./volleyball.jpg')}
 				>
 					Volleyball
 				</button>
 				<button
 					className='btn btn-success'
-					onClick={() => setBallType('public/football.jpg')}
+					onClick={() => setBallType('./football.jpg')}
 				>
 					Football
 				</button>
 				<button
 					className='btn btn-success'
-					onClick={() => setBallType('public/stdempimg.jpg')}
+					onClick={() => setBallType('./stdempimg.jpg')}
 				>
 					Human
 				</button>
 				<button
 					className='btn btn-success'
-					onClick={() => setBallType('public/images.jpg')}
+					onClick={() => setBallType('./images.jpg')}
 				>
 					Cartoon
 				</button>
 				<button
 					className='btn btn-success'
-					onClick={() => setBallType('public/Untitled.png')}
+					onClick={() => setBallType('./Untitled.png')}
 				>
 					Logo
 				</button>
