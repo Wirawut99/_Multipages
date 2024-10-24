@@ -4,7 +4,8 @@ function Home() {
 	return (
 		<div className='profile-container'>
 			<img
-				src='public/stdempimg.jpg' // แทนที่ URL นี้ด้วยรูปภาพจริงของคุณ
+				src='./public/stdempimg.jpg'
+				// src='./public/stdempimg.jpg' // แทนที่ URL นี้ด้วยรูปภาพจริงของคุณ
 				alt='Profile'
 				className='profile-image'
 			/>
